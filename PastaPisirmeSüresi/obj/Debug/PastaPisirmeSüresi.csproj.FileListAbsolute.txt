@@ -1,0 +1,9 @@
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\bin\Debug\PastaPisirmeSüresi.exe.config
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\bin\Debug\PastaPisirmeSüresi.exe
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\bin\Debug\PastaPisirmeSüresi.pdb
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.Form1.resources
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.Properties.Resources.resources
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.exe
+C:\Users\90553\Desktop\udemy\PastaPisirmeSüresi\PastaPisirmeSüresi\obj\Debug\PastaPisirmeSüresi.pdb
